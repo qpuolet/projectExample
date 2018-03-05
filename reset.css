@@ -1,0 +1,13 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+ul {
+    list-style: none outside none;
+}
+
+a {
+    text-decoration: none;
+}
